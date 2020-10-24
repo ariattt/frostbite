@@ -1,0 +1,12 @@
+Frostbite-ram-v0
+Frostbite-ram-v4
+Frostbite-ramDeterministic-v0
+Frostbite-ramDeterministic-v4
+Frostbite-ramNoFrameskip-v0
+Frostbite-ramNoFrameskip-v4
+Frostbite-v0
+Frostbite-v4
+FrostbiteDeterministic-v0
+FrostbiteDeterministic-v4
+FrostbiteNoFrameskip-v0
+FrostbiteNoFrameskip-v4
