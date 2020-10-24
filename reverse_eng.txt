@@ -1,0 +1,12 @@
+index : usage
+1 : time, increment by 4
+line[-2], ind[7]: count down to start moving
+line[-2], ind[4]: vertical position, low -> up, large -> down
+line[-2], ind[6]: horizontal position, low -> left, large -> right
+
+
+action space:
+0 -> nothing
+3 -> right
+4 -> left
+
