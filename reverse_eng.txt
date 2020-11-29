@@ -4,7 +4,6 @@ line[-2], ind[7]: count down to start moving
 line[-2], ind[4]: vertical position, low -> up, large -> down
 line[-2], ind[6]: horizontal position, low -> left, large -> right
 
-
 action space:
 0 -> nothing
 3 -> right
@@ -13,3 +12,4 @@ action space:
 pending:
 5 -> jump down
 6 -> jump up
+line[4], ind[-3]: number of igloo blocks
