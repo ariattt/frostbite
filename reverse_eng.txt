@@ -10,3 +10,6 @@ action space:
 3 -> right
 4 -> left
 
+pending:
+5 -> jump down
+6 -> jump up
